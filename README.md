@@ -1,1 +1,3 @@
-# chibiitora-discord
+# chibiitora
+*** 
+See changelog.md
