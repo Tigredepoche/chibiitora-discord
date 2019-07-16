@@ -5,6 +5,12 @@ Chibiitora is a powerful discord bot made on [Klasa framework](https://klasa.js.
 # Changelog
 
 Chibiitora V2
+
+*2.0.0
+ * Fixed PP calculation on recent et nochoke commands
+ * Fixed map stats calculation with mods (thx to PooN module)
+ * Added timestamp to compare command
+
 ***
 * Beta UpdaTE 9 (29/03/2018): 
   * Imported all old misc commands
